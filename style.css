@@ -1,0 +1,20 @@
+body{
+    background-color: #205295;
+}
+main{
+    padding: 24px;
+    margin: 30px auto;
+    background-color: aliceblue;
+    width: 900px;
+}
+.one{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+#right img{
+    width: 450px;
+}
+.banner{
+    width: 900px;
+}
